@@ -1,0 +1,6 @@
+package inleveropdracht;
+
+enum soort {
+	
+
+}
